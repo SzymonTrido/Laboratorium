@@ -1,0 +1,5 @@
+a = input()
+b = input()
+print (a == b)
+print (int(a) == float(b))
+print (int(a) > float(b))
